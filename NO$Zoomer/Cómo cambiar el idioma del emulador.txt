@@ -1,0 +1,5 @@
+Hay juegos multi-idioma que automáticamente se ponen en el idioma predeterminado del Firmware.
+1.- En la carpeta "NO$GBA 2.6a + NO$Zoomer 2.3.0.2 [Multi-6]\Idiomas Firmware"
+2.- Entra en la carpeta del idioma que prefieras.
+3.- Copia el archivo "FIRMWARE.BIN" de dicha carpeta.
+4.- Pega el archivo en la carpeta "NO$GBA 2.6a + NO$Zoomer 2.3.0.2 [Multi-6]", reemplazando el que ya está.
